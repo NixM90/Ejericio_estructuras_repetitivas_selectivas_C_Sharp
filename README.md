@@ -18,7 +18,12 @@ ser mayor o igual a cero) según lo establecido en la siguiente tabla.
 | Mayor a $1,100.00 y Menor o igual a $1,300.00 | 11% sobre el sueldo del vendedor |
 | Mayor a $1,300.00 | 15% sobe el sueldo del vendedor |
 
-
+Debe Imprimir lo siguiente:
+1. Para cada vendedor imprimir su nombre, sueldo, sus ventas y su respectivo bono
+otorgado en base a la tabla anterior
+2. La cantidad de Vendedores en cada rango y la sumatoria de las ventas por rango.
+3. El promedio de las ventas.
+4. El nombre del vendedor y su venta máxima.
 
 
 
