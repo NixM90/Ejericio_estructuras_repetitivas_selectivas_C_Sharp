@@ -1,6 +1,7 @@
 # Ejericio estructuras repetitivas selectivas C Shar
 
 Resuelva los siguientes ejercicios haciendo uso de estructuras repetitivas y selectivas.
+
 Ejercicio 3:
 Una empresa dedicada a las ventas necesita le elaboren un programa que como entrada de
 datos tenga el nombre del vendedor y su sueldo, (valide que el sueldo del vendedor debe ser
